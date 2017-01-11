@@ -1,0 +1,81 @@
+body{
+    background-color: #AFEEEE;
+    font-family: 'Montserrat', sans-serif;
+}
+
+h1,h2,h3,h4,h5,h6,p{
+    text-align:center;
+}
+h2,h3,h4,h5,h6,p{
+    color:#187272;
+    text-decoration:bold;
+}
+h1{
+    font-size: 70px;
+   	color:#FFF5EE;
+}
+
+
+/*menu bar*/
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #187272;
+}
+
+li {
+    float: left;
+}
+
+li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    float: center;
+}
+
+li a:hover {
+    background-color: #206060;
+}
+
+/*div ads*/
+.ads{
+    float:left;
+}
+/*div ad 1*/
+#ad_1{
+    margin:5px;
+    border:solid;
+    border-width:1px;
+    border-color: rgb(22, 191, 255);
+    padding: 15px;
+    width: 370;
+    float: left;
+}
+#ad_2{
+    margin:5px;
+    border:solid;
+    border-width:1px;
+    border-color: rgb(22, 191, 255);
+    padding: 15px;
+    width: 370;
+    float: left;
+}
+#ad_3{
+    margin:5px;
+    border:solid;
+    border-width:1px;
+    border-color: rgb(22, 191, 255);
+    padding: 15px;
+    width: 370;
+    float:left;
+}
+.menubar{
+    margin-left: 50px;
+    margin-left: 7%;
+    margin-right: 7%;
+}
